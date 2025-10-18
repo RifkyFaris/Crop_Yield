@@ -34,14 +34,6 @@ The **Crop Yield Prediction System** is developed using a combination of data sc
 
 ---
 
-## 🌐 Web Framework
-
-* **Flask:**
-
-  * Backend web framework used to build the predictive web interface.
-  * Handles user inputs (e.g., rainfall, soil type, fertilizer usage) and serves prediction results dynamically.
-
----
 
 ## 💾 Model Storage & Serialization
 
