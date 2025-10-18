@@ -57,12 +57,5 @@ The **Crop Yield Prediction System** is developed using a combination of data sc
 
 ---
 
-## 🧰 Additional Tools
-
-* **Git & GitHub:** For version control and collaborative development.
-* **Microsoft Excel:** For manual inspection and validation of dataset attributes.
-* **Browser:** For testing Flask UI (Chrome/Edge).
-
----
 
 This tech stack ensures the project’s reliability, modular design, and ease of deployment, allowing smooth integration between **machine learning models** and **user-facing web applications**.
